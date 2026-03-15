@@ -684,7 +684,7 @@ body {
   border-radius: 2px;
 }
 .blog-body blockquote::after {
-  content: '\201C';
+  content: '\u201C';
   position: absolute;
   top: -0.5rem; left: 1rem;
   font-size: 4rem;
