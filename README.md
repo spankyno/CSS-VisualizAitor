@@ -19,7 +19,7 @@
 ### 2. Blog Simulator (TXT → HTML)
 - Sube un archivo `.txt` con el contenido de tu post
 - Aplica automáticamente el CSS que hayas subido previamente
-- Genera una vista previa editorial interactiva (tipo iframe)
+- Genera una vista previa editorial interactiva (tipo iframe) 
 - Soporte de formato Markdown ligero:
   - `# Título` → H2
   - `## Subtítulo` → H3
