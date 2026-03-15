@@ -1,0 +1,31 @@
+El Arte de Escribir CSS Limpio
+Una guía práctica para desarrolladores que valoran el orden y la claridad
+
+CSS puede parecer sencillo al principio, pero cuando un proyecto crece, la hoja de estilos puede convertirse rápidamente en un caos difícil de mantener. Esta guía te muestra cómo evitar los errores más comunes.
+
+# La importancia de la nomenclatura
+
+Elegir buenos nombres para tus clases CSS es quizás la decisión más importante que tomarás. Un nombre descriptivo como `.hero-title` vale infinitamente más que `.text-big-blue-heading`. La claridad semántica no es un lujo, es una necesidad cuando trabajas en equipo o regresas a tu código meses después.
+
+La metodología BEM (Bloque, Elemento, Modificador) sigue siendo una de las aproximaciones más sólidas. Separa conceptualmente los componentes de tus páginas y hace que las relaciones entre elementos sean explícitas en el nombre de la clase.
+
+> El CSS que escribes hoy lo leerá alguien más mañana. Ese alguien podrías ser tú.
+
+# Organización y arquitectura
+
+Una buena arquitectura CSS no es accidental. Las variables CSS modernas, combinadas con una estructura de carpetas lógica, permiten crear sistemas de diseño coherentes y escalables. Define tu paleta de colores, tu escala tipográfica y tu sistema de espaciado una sola vez.
+
+## Propiedades custom y design tokens
+
+Los design tokens son el puente entre el diseño y el código. Al definir variables como `--color-primary` o `--spacing-lg`, centralizas las decisiones de diseño y facilitas los cambios globales. Modificar el color de acento de toda tu aplicación se convierte en editar una sola línea.
+
+# Rendimiento y optimización
+
+El CSS no utilizado es el enemigo silencioso del rendimiento. Herramientas como PurgeCSS o el modo JIT de Tailwind eliminan automáticamente los estilos muertos de tu bundle de producción. Un CSS bien optimizado puede reducir significativamente los tiempos de carga.
+
+## La cascada es tu aliada
+
+Muchos desarrolladores luchan contra la cascada CSS en lugar de aprovecharla. Entender la especificidad y el orden de las reglas te permite escribir menos código, más limpio y más predecible. La herencia y la cascada son características, no bugs.
+
+Recuerda siempre: el mejor CSS es el que no tienes que escribir. Aprovecha las propiedades heredadas, reutiliza clases utilitarias y no repitas estilos que ya existen en tu sistema.
+
