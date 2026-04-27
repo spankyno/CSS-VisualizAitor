@@ -56,7 +56,7 @@ export default function RootLayout({
     "author": {
       "@type": "Person",
       "name": "Aitor Sánchez Gutiérrez",
-      "url": "https://aitorblog.infinityfreeapp.com/"
+      "url": "https://aitorsanchez.pages.dev/"
     },
     "publisher": {
       "@type": "Organization",
