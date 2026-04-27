@@ -5,7 +5,7 @@ import { Sparkles, Mail, ExternalLink } from "lucide-react";
 
 export default function Footer() {
   const links = [
-    { label: "Blog", href: "https://aitorblog.infinityfreeapp.com", external: true },
+    { label: "Blog", href: "https://aitorsanchez.pages.dev/", external: true },
     { label: "Contacto", href: "https://aitor-blog-contacto.vercel.app/", external: true },
     { label: "Más Apps", href: "https://aitorhub.vercel.app/", external: true },
   ];
