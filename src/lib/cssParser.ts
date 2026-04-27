@@ -903,7 +903,7 @@ ${variantCSS}
         <p class="blog-author-bio">Desarrollador &amp; diseñador · Creador de CSS VisualizAitor</p>
       </div>
       <div class="blog-author-links">
-        <a href="https://aitorblog.infinityfreeapp.com" target="_blank">Blog</a>
+        <a href="https://aitorsanchez.pages.dev/" target="_blank">Blog</a>
         <a href="https://aitor-blog-contacto.vercel.app/" target="_blank">Contacto</a>
       </div>
     </div>
@@ -913,7 +913,7 @@ ${variantCSS}
     <span class="blog-footer-copy">Aitor Sánchez Gutiérrez © 2026 — Reservados todos los derechos</span>
     <div class="blog-footer-links">
       <a href="https://aitorhub.vercel.app/" target="_blank">Más apps</a>
-      <a href="https://aitorblog.infinityfreeapp.com" target="_blank">Blog</a>
+      <a href="https://aitorsanchez.pages.dev/" target="_blank">Blog</a>
       <a href="https://aitor-blog-contacto.vercel.app/" target="_blank">Contacto</a>
     </div>
   </footer>
