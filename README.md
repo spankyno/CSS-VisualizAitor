@@ -181,7 +181,7 @@ Más contenido aquí...
 - 📧 Email: [blog.cottage627@passinbox.com](mailto:blog.cottage627@passinbox.com)
 - 🌐 Contacto: [aitor-blog-contacto.vercel.app](https://aitor-blog-contacto.vercel.app/)
 - 🚀 Más apps: [aitorhub.vercel.app](https://aitorhub.vercel.app/)
-- 📖 Blog: [aitorblog.infinityfreeapp.com](https://aitorblog.infinityfreeapp.com)
+- 📖 Blog: [aitorblog.infinityfreeapp.com](https://aitorsanchez.pages.dev/)
 
 ---
 
