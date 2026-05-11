@@ -98,7 +98,7 @@ export default function Hero() {
             <ArrowDown className="w-4 h-4" />
           </a>
           <a
-            href="https://aitorblog.infinityfreeapp.com"
+            href="https://aitorsanchez.pages.dev"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl text-base font-medium font-sans text-white/50 hover:text-white/80 glass border border-white/8 transition-all duration-300 hover:border-white/20"
