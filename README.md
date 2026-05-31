@@ -179,7 +179,7 @@ Más contenido aquí...
 **Aitor Sánchez Gutiérrez**
 
 - 📧 Email: [blog.cottage627@passinbox.com](mailto:blog.cottage627@passinbox.com)
-- 🌐 Contacto: [[aitor-blog-contacto.vercel.app]([https://aitorsanchez.pages.dev/contacto/)  
+- 🌐 Contacto: [[aitor-blog-contacto.vercel.app](https://aitorsanchez.pages.dev/contacto/)  
 - 🚀 Más apps: [aitorhub.vercel.app](https://aitorhub.vercel.app/)
 - 📖 Blog: [aitorblog.infinityfreeapp.com](https://aitorsanchez.pages.dev/)
 
