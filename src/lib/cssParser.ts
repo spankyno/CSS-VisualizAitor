@@ -228,7 +228,7 @@ body {
     ${cards}
   </main>
   <footer class="sg-footer">
-    <p>Generado por <a href="https://aitorhub.vercel.app/" target="_blank">CSS VisualizAitor</a> · Aitor Sánchez Gutiérrez © 2026</p>
+    <p>Generado por <a href="https://aitorsanchez.pages.dev/contacto/" target="_blank">CSS VisualizAitor</a> · Aitor Sánchez Gutiérrez © 2026</p>
   </footer>
 </body>
 </html>`;
@@ -904,7 +904,7 @@ ${variantCSS}
       </div>
       <div class="blog-author-links">
         <a href="https://aitorsanchez.pages.dev/" target="_blank">Blog</a>
-        <a href="https://aitor-blog-contacto.vercel.app/" target="_blank">Contacto</a>
+        <a href="https://aitorsanchez.pages.dev/contacto/" target="_blank">Contacto</a>
       </div>
     </div>
   </div>
@@ -914,7 +914,7 @@ ${variantCSS}
     <div class="blog-footer-links">
       <a href="https://aitorhub.vercel.app/" target="_blank">Más apps</a>
       <a href="https://aitorsanchez.pages.dev/" target="_blank">Blog</a>
-      <a href="https://aitor-blog-contacto.vercel.app/" target="_blank">Contacto</a>
+      <a href="https://aitorsanchez.pages.dev/contacto/" target="_blank">Contacto</a>
     </div>
   </footer>
 
