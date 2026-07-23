@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from 'next/script';
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -81,6 +82,15 @@ export default function RootLayout({
       </head>
       <body className="noise">
         {children}
+        
+        {/* Script de Aitor's Analytics */}
+        <Script
+          src="https://aitors-hub-dashboard.asanchezgu.workers.dev/tracker.js"
+          data-app="css-visualizaitor"
+          data-key="ak_c9ef44b0553c47e88ce952d1a3eafd08"
+          strategy="afterInteractive"
+        />
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
